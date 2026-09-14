@@ -1,0 +1,52 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# OS/IDE files
+.DS_Store
+.vscode/
+.idea/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints & Cache
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.virtual_documents/
+
+# Environments & Dependencies
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables & secrets
+.env
+
+# Data & Large Files (Keep empty folders, ignore contents)
+# Uncomment the line below if you don't want to track dataset files
+# data/*.csv
+
+# IDE / Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+
+# Output & Export formats (optional ignores)
+*.html
+*.pdf
